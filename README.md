@@ -1,5 +1,6 @@
-# Olá eu sou Júlia Marques, estudante de ciência da computação!
+# Olá, eu sou a Júlia Marques! 
 
+Estudante de **Ciência da Computação** apaixonada por resolver problemas através do código e transformar lógica em soluções reais.
 <div align="left">
   <!-- Ícones: C, C#, Java e Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
