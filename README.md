@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá eu sou Júlia Marques, estudante de ciência da computação!
 
-<!--
-**JuliaMarquesMaciel/JuliaMarquesMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <!-- Ícones: C, C#, Java e Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Estatísticas de linguagens -->
+<a href="https://github.com/JuliaMarquesMaciel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaMarquesMaciel&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+
+<br/><br/>
+
+<!-- Botão do LinkedIn -->
+<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
