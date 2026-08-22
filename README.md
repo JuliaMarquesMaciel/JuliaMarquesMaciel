@@ -1,4 +1,4 @@
-# Olá, eu sou a Júlia Marques! 
+# Olá, eu sou a Julia Marques! 
 
 Estudante de **Ciência da Computação** apaixonada por resolver problemas através do código e transformar lógica em soluções reais.
 <div align="left">
