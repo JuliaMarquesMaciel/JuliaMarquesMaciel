@@ -24,20 +24,6 @@ Estudante de Ciência da Computação, curiosa por natureza e movida pela vontad
 
 <br>
 
-## Projetos
-
-→ Projetos acadêmicos em C
-→ Projetos acadêmicos em C++
-
-Portfólio em construção — novos projetos em Python e Java estão a caminho.
-
-<br>
-
-## Interesses
-
-Desenvolvimento de Software · Segurança da Informação · Dados · Tecnologia
-
-<br>
 
 ## Contato
 
