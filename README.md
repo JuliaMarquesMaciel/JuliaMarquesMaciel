@@ -31,5 +31,5 @@ Learning by doing and turning what I study into real projects.
 ### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,&theme=light" />
 </p>
