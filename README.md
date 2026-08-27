@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB5C0&height=220&section=header&text=Julia%20Marques&fontSize=50&fontColor=7A4B57&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=20&descColor=7A4B57&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF46A2&height=220&section=header&text=Julia%20Marques&fontSize=50&fontColor=000000&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=58&descSize=20&descColor=000000&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-### Contato
+### Contact
 
 <p align="center">
 <a href="mailto:juliamarquesmaciel4@gmail.com">
-<img src="https://img.shields.io/badge/-Email-FFB5C0?style=for-the-badge&logo=gmail&logoColor=7A4B57" />
+<img src="https://img.shields.io/badge/-Email-FF46A2?style=for-the-badge&logo=gmail&logoColor=000000" />
 </a>
 <a href="https://www.linkedin.com/in/julia-marques-maciel-61b363332/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/-LinkedIn-FFB5C0?style=for-the-badge&logo=linkedin&logoColor=7A4B57" />
+<img src="https://img.shields.io/badge/-LinkedIn-FF46A2?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 </p>
 
 ---
 
-### Sobre mim
+### About me
 
 <p align="center">
-Estudante de Ciência da Computação, curiosa por tecnologia e por como as coisas<br/>
-funcionam por dentro. Aprendendo na prática e transformando estudo em projetos reais.
+Computer Science student, curious about technology and how things work under the hood.<br/>
+Learning by doing and turning what I study into real projects.
 </p>
 
 ---
@@ -31,5 +31,5 @@ funcionam por dentro. Aprendendo na prática e transformando estudo em projetos 
 ### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github&theme=light" />
 </p>
