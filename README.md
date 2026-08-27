@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB5C0&height=220&section=header&text=Julia%20Marques&fontSize=50&fontColor=7A4B57&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=20&descColor=7A4B57" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB5C0&height=220&section=header&text=Julia%20Marques&fontSize=50&fontColor=7A4B57&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=20&descColor=7A4B57&animation=fadeIn" width="100%"/>
 
+</div>
 
-
+---
 
 ### Contato
 
