@@ -1,45 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E8&height=180&section=header&text=JULIA&fontSize=55&fontColor=5C4A4A&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-**Ciência da Computação · Tecnologia · Em constante aprendizado**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB5C0&height=220&section=header&text=Julia%20Marques&fontSize=50&fontColor=7A4B57&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=20&descColor=7A4B57" width="100%"/>
 
 </div>
 
-## Sobre mim
+---
 
-Estudante de Ciência da Computação, curiosa por natureza e movida pela vontade de entender como as coisas funcionam por dentro. Gosto de aprender na prática e transformar o que estudo em projetos reais.
+### Contato
 
-<br>
+<p align="center">
+<a href="mailto:juliamarquesmaciel4@gmail.com">
+<img src="https://img.shields.io/badge/-Email-FFB5C0?style=for-the-badge&logo=gmail&logoColor=7A4B57" />
+</a>
+<a href="https://www.linkedin.com/in/julia-marques-maciel-61b363332/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-LinkedIn-FFB5C0?style=for-the-badge&logo=linkedin&logoColor=7A4B57" />
+</a>
+</p>
 
-## Stack
+---
 
-<div align="center">
+### Sobre mim
 
+<p align="center">
+Estudante de Ciência da Computação, curiosa por tecnologia e por como as coisas<br/>
+funcionam por dentro. Aprendendo na prática e transformando estudo em projetos reais.
+</p>
+
+---
+
+### Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github&theme=light" />
-
-</div>
-
-<br>
-
-
-## Contato
-
-<div align="center">
-
-<a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-FFD6E8?style=for-the-badge&logo=gmail&logoColor=5C4A4A" /></a>
-<a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=5C4A4A" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Aprender → Praticar → Construir → Evoluir`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E8&height=100&section=footer" width="100%"/>
-
-</div>
+</p>
