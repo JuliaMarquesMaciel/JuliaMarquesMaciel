@@ -31,5 +31,5 @@ funcionam por dentro. Aprendendo na prática e transformando estudo em projetos 
 ### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,&theme=light" />
 </p>
